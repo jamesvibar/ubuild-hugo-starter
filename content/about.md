@@ -8,7 +8,10 @@ block = "header-1"
 logo = "/uploads/test.jpg"
 template = "navigation-header"
 [[page_sections.navigation]]
-link_text = "About"
-link_url = "/about"
+link_text = "Home"
+link_url = "/"
+[[page_sections]]
+block = "header-3"
+template = "simple-header"
 
 +++
