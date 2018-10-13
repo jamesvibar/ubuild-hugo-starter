@@ -12,7 +12,7 @@ link_text = "Home"
 link_url = "/"
 [[page_sections]]
 block = "header-3"
-logo = "/uploads/2018/06/21/drone-photo.jpeg"
+logo = "/uploads/2018/06/21/edit.gif"
 template = "simple-header"
 [[page_sections.navigation]]
 link_text = "Test"
@@ -20,6 +20,7 @@ link_url = "1"
 template = "link"
 [[page_sections.navigation]]
 link_text = "Test 2"
+link_url = "2"
 template = "link"
 [[page_sections.navigation]]
 link_text = "Test 3"
