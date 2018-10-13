@@ -11,3 +11,8 @@ fields:
 - type: file
   label: Logo
   name: logo
+- type: blocks
+  name: navigation
+  label: navigation
+  template_types:
+  - link
