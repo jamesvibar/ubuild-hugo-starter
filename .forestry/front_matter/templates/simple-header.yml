@@ -2,7 +2,7 @@
 label: simple-header
 hide_body: false
 is_partial: true
-display_field: block
+display_field: logo
 fields:
 - type: text
   hidden: true
