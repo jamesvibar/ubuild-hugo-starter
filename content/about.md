@@ -14,5 +14,15 @@ link_url = "/"
 block = "header-3"
 logo = "/uploads/2018/06/21/drone-photo.jpeg"
 template = "simple-header"
+[[page_sections.navigation]]
+link_text = "Test"
+link_url = "1"
+template = "link"
+[[page_sections.navigation]]
+link_text = "Test 2"
+template = "link"
+[[page_sections.navigation]]
+link_text = "Test 3"
+template = "link"
 
 +++
