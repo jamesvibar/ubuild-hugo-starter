@@ -12,6 +12,7 @@ link_text = "Home"
 link_url = "/"
 [[page_sections]]
 block = "header-3"
+logo = "/uploads/2018/06/21/drone-photo.jpeg"
 template = "simple-header"
 
 +++
